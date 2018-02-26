@@ -1,0 +1,39 @@
+body {
+    background-image: url("./images/InfinityGauntlet.jpg");
+    font-family: 'Fredoka One', cursive;
+}
+
+header {
+    background: yellowgreen;
+    text-align: center;
+    font-size: 110%;
+}
+.container {
+    text-align: center;
+}
+
+section {
+    background: lightblue;
+    font-size: 120%;
+}
+button {
+    word-wrap: break-word;
+}
+#space {
+    background: purple;
+}
+
+#mind {
+    background: rgb(6, 164, 238);
+}
+
+#power {
+    background: red;
+
+}
+
+#time {
+    background: rgb(255, 166, 0);
+
+}
+
