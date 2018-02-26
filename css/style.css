@@ -1,5 +1,5 @@
 html { 
-    background: url("../images/InfinityGauntlet.jpg") no-repeat center center fixed; 
+    background: url("../images/infinity-gauntlet-thanos.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -8,7 +8,7 @@ html {
 
 body {
     font-color: white;
-    font-family: 'Fredoka One', cursive;
+    font-family: 'Montserrat', sans-serif;
 }
 
 header {
@@ -17,14 +17,27 @@ header {
     font-size: 110%;
 }
 .container {
-    text-align: center;
+    text-align: left;
+    font-size: 12px;
 }
 
 section {
     font-size: 120%;
 }
+
 button {
     word-wrap: break-word;
+    background-color: purple;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5em/13em;
+    }
 }
 #space {
     background: purple;
