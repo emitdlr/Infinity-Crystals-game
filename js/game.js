@@ -13,7 +13,7 @@ $(document).ready(function () {
       value: 0
     },
     {
-      name: "time",
+      name: "soul",
       value: 0
     }
   ];
